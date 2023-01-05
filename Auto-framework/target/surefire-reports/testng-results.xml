@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T22:33:43 CET" name="Command line suite" finished-at="2023-01-04T22:33:56 CET" duration-ms="13060">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T22:33:43 CET" name="Command line test" finished-at="2023-01-04T22:33:56 CET" duration-ms="13060">
+      <class name="org.QA.TestLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:51 CET" name="setUp" finished-at="2023-01-04T22:33:52 CET" duration-ms="1430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginAttemptWithoutPassword()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:52 CET" name="LoginAttemptWithoutPassword" finished-at="2023-01-04T22:33:52 CET" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAttemptWithoutPassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:52 CET" name="close" finished-at="2023-01-04T22:33:53 CET" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:53 CET" name="setUp" finished-at="2023-01-04T22:33:54 CET" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginAttemptWithoutUsername()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:54 CET" name="LoginAttemptWithoutUsername" finished-at="2023-01-04T22:33:54 CET" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAttemptWithoutUsername -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:54 CET" name="close" finished-at="2023-01-04T22:33:54 CET" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:54 CET" name="setUp" finished-at="2023-01-04T22:33:56 CET" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithValidCredentials()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:56 CET" name="loginWithValidCredentials" finished-at="2023-01-04T22:33:56 CET" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.QA.TestLogin@3c947bc5]" started-at="2023-01-04T22:33:56 CET" name="close" finished-at="2023-01-04T22:33:56 CET" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.QA.TestLogin -->
+      <class name="org.QA.TestInitialPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.QA.TestInitialPage@5552768b]" started-at="2023-01-04T22:33:47 CET" name="setUp" finished-at="2023-01-04T22:33:49 CET" duration-ms="1842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLandingPage()[pri:0, instance:org.QA.TestInitialPage@5552768b]" started-at="2023-01-04T22:33:49 CET" name="validateLandingPage" finished-at="2023-01-04T22:33:49 CET" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLandingPage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.QA.TestInitialPage@5552768b]" started-at="2023-01-04T22:33:49 CET" name="close" finished-at="2023-01-04T22:33:49 CET" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.QA.TestInitialPage@5552768b]" started-at="2023-01-04T22:33:49 CET" name="setUp" finished-at="2023-01-04T22:33:50 CET" duration-ms="1314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginPageElements()[pri:0, instance:org.QA.TestInitialPage@5552768b]" started-at="2023-01-04T22:33:50 CET" name="validateLoginPageElements" finished-at="2023-01-04T22:33:51 CET" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageElements -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.QA.TestInitialPage@5552768b]" started-at="2023-01-04T22:33:51 CET" name="close" finished-at="2023-01-04T22:33:51 CET" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.QA.TestInitialPage -->
+      <class name="org.QA.TestFilter">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.QA.TestFilter@192c3f1e]" started-at="2023-01-04T22:33:43 CET" name="setUp" finished-at="2023-01-04T22:33:46 CET" duration-ms="2808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="filterFromLowToHigh()[pri:0, instance:org.QA.TestFilter@192c3f1e]" started-at="2023-01-04T22:33:46 CET" name="filterFromLowToHigh" finished-at="2023-01-04T22:33:47 CET" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterFromLowToHigh -->
+        <test-method is-config="true" signature="close()[pri:0, instance:org.QA.TestFilter@192c3f1e]" started-at="2023-01-04T22:33:47 CET" name="close" finished-at="2023-01-04T22:33:47 CET" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.QA.TestFilter -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
